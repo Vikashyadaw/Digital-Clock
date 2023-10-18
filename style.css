@@ -1,0 +1,11 @@
+body{
+    background-color: #fff;
+    color: #0b0202"
+}
+
+.main-div{
+        margin: auto;
+        width: 50%;
+        /* border: 3px solid rgb(7, 11, 7); */
+        padding: 10px;     
+}
